@@ -1,0 +1,16 @@
+{
+    "name": "ronaldoaam/app_carrinho_compras",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ronaldo",
+            "email": "rounknow@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}

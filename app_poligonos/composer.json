@@ -1,0 +1,16 @@
+{
+    "name": "ronaldoaam/app_poligonos",
+    "type": "no",
+    "authors": [
+        {
+            "name": "Ronaldo Moreira",
+            "email": "rounknow@mail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\" : "src/"
+        }
+    }
+}

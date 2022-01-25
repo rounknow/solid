@@ -1,0 +1,15 @@
+{
+    "name": "ronaldoaam/app_etl",
+    "authors": [
+        {
+            "name": "Ronaldo Moreira",
+            "email": "rounknow@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
